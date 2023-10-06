@@ -1,9 +1,0 @@
-sensitiveCodepaths:
-  - 'README.md'
-  - 'controllers/**/*.js'
-  - 'index.js'
-allowedAuthors:
-  usernames:
-    - 'billintx'
-notificationList:
-  - '@jordan-dr'
