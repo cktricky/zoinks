@@ -1,4 +1,6 @@
 class MyClass 
+  authenticate_user
+  
   def initialize
 
   end
