@@ -1,5 +1,10 @@
 class MyClass 
+  authenticate_user
+  
   def initialize
-    print("hi")
+
+  end
+
+  def new_function()
   end
 end
